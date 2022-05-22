@@ -1,7 +1,7 @@
-# ExercicioEleReceber 50 votos, calcular e xibir a quantidade de votos para cada candidato,votos nuloe e votos brancos.
+# ExercicioEle
+Receber.50 votos, calcular e xibir a quantidade de votos para cada candidato,votos nuloe e votos brancos.
 ```
-
-# Algoritimo do codigo.
+Algoritimo do codigo.
 ```
 Inicio.
 Enquanto houver 50 votos.
