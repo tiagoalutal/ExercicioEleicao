@@ -1,7 +1,7 @@
 # ExercicioEleicao
 ```
 
-# Algoritimo do codigo
+# Algoritimo do codigo//
 ```
 
 Inicio.
