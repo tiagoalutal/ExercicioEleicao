@@ -1,7 +1,9 @@
 # ExercicioEleicao
 ```
+
 Algoritimo do codigo
 ```
+
 Inicio.
 Enquanto houver 50 votos.
 Codigos 1=PT,2=PDT,3=PL,4=PSDB,5=NULO,6=BRANCO.
