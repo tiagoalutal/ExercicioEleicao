@@ -1,10 +1,10 @@
 # ExercicioEleicao
 ```
 
-# Algoritimo do codigo//
+# Algoritimo do codigo
 ```
 
-Inicio.
+# Inicio.
 Enquanto houver 50 votos.
 Codigos 1=PT,2=PDT,3=PL,4=PSDB,5=NULO,6=BRANCO.
 Receber o codigo do candidato a ser votado,voto nulo ou voto em branco.
