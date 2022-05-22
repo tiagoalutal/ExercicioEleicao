@@ -15,4 +15,4 @@ Exibir quantidade de votos brancos.
 Fim.
 ```
 
-![FluxogramaEstacionamento](https://user-images.githubusercontent.com/103974210/169719551-36f22d05-fa7e-4f10-8c94-ca8d9415157c.png)
+
