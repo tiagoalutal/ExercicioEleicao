@@ -2,7 +2,7 @@
 Receber.50 votos, calcular e xibir a quantidade de votos para cada candidato,votos nuloe e votos brancos.
 ```
 Algoritimo do codigo.
-```
+
 Inicio.
 Enquanto houver 50 votos.
 Codigos 1=PT,2=PDT,3=PL,4=PSDB,5=NULO,6=BRANCO.
