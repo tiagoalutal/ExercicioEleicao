@@ -1,5 +1,5 @@
 # ExercicioEle
-Receber.50 votos, calcular e exibir a quantidade de votos para cada candidato,votos nulos e votos brancos.
+Receber 50 votos, calcular e exibir a quantidade de votos para cada candidato,votos nulos e votos brancos.
 ```
 Algoritimo do codigo.
 
@@ -14,5 +14,7 @@ Exibir quantidade de votos nulos.
 Exibir quantidade de votos brancos.
 Fim.
 ```
+![FluxogramaEleicoes](https://user-images.githubusercontent.com/103974210/169720835-e9d16041-eae4-4002-a053-10d574106b74.png)
+
 
 
