@@ -1,4 +1,4 @@
-# Eleicao.
+# ExercicioEleicao.
 Receber 50 votos, calcular e exibir a quantidade de votos para cada candidato,votos nulos e votos brancos.
 ```
 Algoritimo do codigo.
